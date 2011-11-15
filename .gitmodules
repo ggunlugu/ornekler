@@ -1,0 +1,3 @@
+[submodule "zf2-event-manager"]
+	path = zf2-event-manager
+	url = https://github.com/volkan/ggunlugu-ornekler.git
